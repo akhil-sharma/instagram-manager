@@ -1,0 +1,25 @@
+{
+  "name": "instagram-manager",
+  "version": "1.0.0",
+  "description": "Monitoring basic instagram stats.",
+  "main": "instagram-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhil-sharma/instagram-manager.git"
+  },
+  "author": "Akhil Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akhil-sharma/instagram-manager/issues"
+  },
+  "homepage": "https://github.com/akhil-sharma/instagram-manager#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "handlebars": "^4.0.12",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
